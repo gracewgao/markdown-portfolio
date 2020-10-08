@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![picture of bojack horseman](https://i.redd.it/apzm4ah4dtq11.jpg)
